@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://anyexxx.github.io/sitemap.xml 
